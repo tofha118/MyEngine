@@ -1,0 +1,30 @@
+﻿libfbxsdk-md.lib(OrImpl.cpp.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(OrImpl.cpp.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(CprImpl.cpp.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(CprImpl.cpp.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(ArImpl.cpp.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(ArImpl.cpp.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(IMaterial.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(IMaterial.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(XformOp.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(XformOp.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(IXform.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(IXform.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(ISubD.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(ISubD.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(IPolyMesh.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(IPolyMesh.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(INuPatch.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(INuPatch.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(IFaceSet.obj) : warning LNK4099: '' PDB를 'libfbxsdk-md.lib(IFaceSet.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(ICurves.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(ICurves.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(IObject.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(IObject.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(ArchiveInfo.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(ArchiveInfo.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(OwData.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(OwData.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(OrData.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(OrData.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(MetaDataMap.obj) : warning LNK4099: '' PDB를 'libfbxsdk-md.lib(MetaDataMap.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(CpwData.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(CpwData.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(CprData.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(CprData.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(AwImpl.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(AwImpl.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(TokenMap.obj) : warning LNK4099: 'alembic-md.pdb' PDB를 'libfbxsdk-md.lib(TokenMap.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\alembic-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(awUtilInitializer.obj) : warning LNK4099: 'libfbxsdk-md.pdb' PDB를 'libfbxsdk-md.lib(awUtilInitializer.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\libfbxsdk-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(awTess2dConstrainedTriangulate.obj) : warning LNK4099: 'libfbxsdk-md.pdb' PDB를 'libfbxsdk-md.lib(awTess2dConstrainedTriangulate.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\libfbxsdk-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(awGeomTopoMesh.obj) : warning LNK4099: 'libfbxsdk-md.pdb' PDB를 'libfbxsdk-md.lib(awGeomTopoMesh.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\libfbxsdk-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(fbxmesh.obj) : warning LNK4099: 'libfbxsdk-md.pdb' PDB를 'libfbxsdk-md.lib(fbxmesh.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\libfbxsdk-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(fbxalembicxform.obj) : warning LNK4099: 'libfbxsdk-md.pdb' PDB를 'libfbxsdk-md.lib(fbxalembicxform.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\libfbxsdk-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(fbxalembicobject.obj) : warning LNK4099: 'libfbxsdk-md.pdb' PDB를 'libfbxsdk-md.lib(fbxalembicobject.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\libfbxsdk-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(fbxalembicmaterial.obj) : warning LNK4099: 'libfbxsdk-md.pdb' PDB를 'libfbxsdk-md.lib(fbxalembicmaterial.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\libfbxsdk-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(fbxalembicinterface.obj) : warning LNK4099: 'libfbxsdk-md.pdb' PDB를 'libfbxsdk-md.lib(fbxalembicinterface.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\libfbxsdk-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libfbxsdk-md.lib(fbxalembicgeometry.obj) : warning LNK4099: 'libfbxsdk-md.pdb' PDB를 'libfbxsdk-md.lib(fbxalembicgeometry.obj)' 또는 'D:\Direct_In\GameIMGUI\Game (3)\Output\libfbxsdk-md.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  Client.vcxproj -> D:\Direct_In\GameIMGUI\Game (3)\Output\Client.exe

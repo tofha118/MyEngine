@@ -1,0 +1,10 @@
+C:\Users\pc\Downloads\Game (3)\Output\compute.cso
+C:\Users\pc\Downloads\Game (3)\Output\deferred.cso
+C:\Users\pc\Downloads\Game (3)\Output\forward.cso
+C:\Users\pc\Downloads\Game (3)\Output\lighting.cso
+C:\Users\pc\Downloads\Game (3)\Output\params.cso
+C:\Users\pc\Downloads\Game (3)\Output\particle.cso
+C:\Users\pc\Downloads\Game (3)\Output\skybox.cso
+C:\Users\pc\Downloads\Game (3)\Output\utils.cso
+C:\Users\pc\Downloads\Game (3)\Output\Engine.pdb
+C:\Users\pc\Downloads\Game (3)\Engine\x64\Debug\Engine.pdb

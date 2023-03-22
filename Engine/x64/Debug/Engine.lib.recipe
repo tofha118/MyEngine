@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\Direct_In\GameIMGUI\Game (3)\Output\animation.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Direct_In\GameIMGUI\Game (3)\Output\compute.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Direct_In\GameIMGUI\Game (3)\Output\deferred.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Direct_In\GameIMGUI\Game (3)\Output\forward.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Direct_In\GameIMGUI\Game (3)\Output\lighting.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Direct_In\GameIMGUI\Game (3)\Output\math.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Direct_In\GameIMGUI\Game (3)\Output\params.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Direct_In\GameIMGUI\Game (3)\Output\particle.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Direct_In\GameIMGUI\Game (3)\Output\shadow.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Direct_In\GameIMGUI\Game (3)\Output\skybox.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Direct_In\GameIMGUI\Game (3)\Output\terrain.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Direct_In\GameIMGUI\Game (3)\Output\tessellation.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Direct_In\GameIMGUI\Game (3)\Output\utils.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
